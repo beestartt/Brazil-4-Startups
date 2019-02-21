@@ -106,11 +106,11 @@ a, .text-color {
 /*   Pricing Tab
 /*------------------------------------------*/
 .pricing-tab {
-    border: 3px solid #cb6060;
+    border: 3px solid #344d86;
 }
 
 .pricing-tab h4 {
-    border-bottom: 3px solid #cb6060;
+    border-bottom: 3px solid #344d86;
 }
 
 .pricing-tab .ribbon .popular{
