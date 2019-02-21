@@ -288,7 +288,7 @@ blockquote img {
 
 .signal {
     display: inline-block;
-    border: 3px solid #fff;
+    border: 3px solid #5b9dd0;
     border-radius: 30px;
     height: 30px;
     opacity: 0;
@@ -527,7 +527,7 @@ p {
 /*   Header Background Parallax Settings
 /*------------------------------------------*/
 .header{
-    background: url("../images/hero-placeholder.jpg") no-repeat center top fixed;
+    background: url("../images/rio-de-janeiro1.jpg") no-repeat center top fixed;
     -webkit-background-size: cover;
     -moz-background-size:cover;
     background-size: cover;   
@@ -1714,4 +1714,20 @@ p {
 .tweet li span{
     font-style: italic;
     font-size: 15px;
+}
+
+}
+.logo-smaller  h1#logo .logo-1{
+    display:none;
+}
+.logo-smaller  h1#logo .logo-2{
+    display:inline-block;
+}
+
+}
+header.fixed h1#logo img.logo-1{
+    display:none;
+}
+header.fixed h1#logo img.logo-2{
+    display:inline-block;
 }

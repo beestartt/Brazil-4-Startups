@@ -1,0 +1,3 @@
+Azul escuro: 344d86
+Azul claro: 5b9dd0
+Amarelo: 020202
