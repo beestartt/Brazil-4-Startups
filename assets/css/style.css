@@ -827,6 +827,7 @@ p {
 /*------------------------------------------*/
 .intro-features {
     text-align: center;
+    margin-top: 5vh;
 }
 
 .intro-features .icon-lg{
@@ -1730,4 +1731,8 @@ header.fixed h1#logo img.logo-2{
 
 .nav-text-blue{
     color: #354F84 !important;
+}
+
+.header-img{
+    margin-bottom: 2vh !important;
 }
