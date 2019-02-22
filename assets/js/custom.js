@@ -71,8 +71,12 @@ $(window).scroll(function(){
     var b = $(window).scrollTop();
     if( b > 60 ){
         $(".navbar").addClass("is-scrolling");
+        $(".nav-text").addClass("nav-text-blue");
+        $(".logo-1").attr("src", "assets/images/logo-pequena.png");
     } else {
         $(".navbar").removeClass("is-scrolling");
+        $(".nav-text").removeClass("nav-text-blue");
+        $(".logo-1").attr("src", "assets/images/logo-branca.png");
     }
 });
 

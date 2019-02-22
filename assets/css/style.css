@@ -554,8 +554,8 @@ p {
 }
 
 .navbar-fixed-top.is-scrolling{
-    background: #323a45;
-    background: rgba(50,58,69,0.95);
+    background: #ffffff;
+    background: rgba(255, 255, 255, 0.95);
     border: 0;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -1715,19 +1715,19 @@ p {
     font-style: italic;
     font-size: 15px;
 }
-
-}
 .logo-smaller  h1#logo .logo-1{
     display:none;
 }
 .logo-smaller  h1#logo .logo-2{
     display:inline-block;
 }
-
-}
 header.fixed h1#logo img.logo-1{
     display:none;
 }
 header.fixed h1#logo img.logo-2{
     display:inline-block;
+}
+
+.nav-text-blue{
+    color: #354F84 !important;
 }
